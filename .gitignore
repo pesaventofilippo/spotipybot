@@ -1,0 +1,9 @@
+# Spotify Profiles Credentials
+data/
+
+# Chromedriver Executable
+drivers/
+*.log
+
+# Python Cache
+*__pycache__/
